@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="title_popular_movies">Popular Movies</string>
+    <string name="title_rated_movies">Top Rated Movies</string>
+    <string name="title_favorite_movies">Favorite Movies</string>
+
+
+    <string name="action_sort_by_popularity">Sort by Popularity</string>
+    <string name="action_sort_by_rating">Sort by Rating</string>
+    <string name="action_sort_by_favorite">Favorites</string>
+
+
+    <string name="average_vote">%1$.2f / 5.0</string>
+
+    <plurals name="vote_count">
+        <item quantity="one">%d vote</item>
+        <item quantity="other">%d votes</item>
+    </plurals>
+
+    <string name="release_date">Released %1$s</string>
+    <string name="title_activity_scrolling">Detail Activity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="movie_add_to_favorite">Add to favorite</string>
+    <string name="review_sample_text">This is a long string of characters that is supposed to represent a movie review.</string>
+    <string name="author">- Unknown person</string>
+</resources>

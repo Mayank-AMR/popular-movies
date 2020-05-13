@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="detail_margin">16dp</dimen>
+    <dimen name="detail_text_size">16sp</dimen>
+    <dimen name="app_bar_height">250dp</dimen>
+    <dimen name="list_card_elevation">4dp</dimen>
+    <dimen name="list_card_margin">4dp</dimen>
+
+
+    <dimen name="review_height">200dp</dimen>
+    <dimen name="review_width">300dp</dimen>
+    <dimen name="review_card_margin">8dp</dimen>
+    <dimen name="review_content_text_size">24sp</dimen>
+    <dimen name="review_content_margin">16dp</dimen>
+    <dimen name="review_author_margin">24dp</dimen>
+
+
+</resources>
