@@ -25,6 +25,3 @@ To run this app, you must also have an [API Key](https://www.themoviedb.org/docu
   <img src="https://github.com/Mayank-AMR/popular-movies/blob/master/image/ScreenShot%203.png" width="350" alt="accessibility text">
 </p>
 
-<div align="center">
-    <img src="https://github.com/Mayank-AMR/popular-movies/blob/master/image/ScreenShot%201.png" width="400px"</img> 
-</div>
